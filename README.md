@@ -8,6 +8,8 @@ For Node.js download the File and unzip it. From there goto your Terminal and ty
 
 # Video Links of the disCaptchaGrabber being used
 
+Server Side Video (CONSOLE):
 https://youtube.com/watch?v=W4DtGg3XwZI
 
+Client Side Video (USER):
 https://youtube.com/watch?v=PfoNJ6EnbpM
